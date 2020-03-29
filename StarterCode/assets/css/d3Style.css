@@ -6,7 +6,7 @@
 
 .active {
   font-weight: bold;
-  fill: #000;
+  fill: rgb(0, 0, 0);
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
@@ -19,7 +19,7 @@
 }
 
 .inactive:hover {
-  fill: #000;
+  fill: rgb(99, 29, 156);
   cursor: pointer;
 }
 
